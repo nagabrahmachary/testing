@@ -3,9 +3,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.learning</groupId>
   <artifactId>sample-webapp2</artifactId>
-  <version>1.1-SNAPSHOT</version>
-  <packaging>war</packaging>
-  <name>Test-WebApp Maven Webapp</name>
+  <version>1.2-SNAPSHOT</version>
+        <packaging>war</packaging>
+        <name>Test-WebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
